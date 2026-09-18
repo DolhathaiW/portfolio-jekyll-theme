@@ -6,7 +6,6 @@ title: "Simple and Interactive Graphs in Python"
 # Required coding activity: Simple and interactive graphs in Python
 ---
 ## Overview
-In this activity, you will use Matplotlib with pyplot as well as Seaborn data vizualisation tools to perform some EDA on different data sets.
 
 This activity is designed to build your familiarity and comfort coding in Python while also helping you review key topics from each module. As you progress through the activity, questions will get increasingly more complex. It is important that you adopt a programmer's mindset when completing this activity. Remember to run your code from each cell before submitting your activity, as doing so will give you a chance to fix any errors before submitting.
 
@@ -537,7 +536,7 @@ df['Gender'].value_counts().plot(kind='bar')
 
 
     
-{{ site.baseurl }}/assets/Required_activity-Simple%20and%20interactive%20graphs%20in%20Python-2_7_1.png
+!{ site.baseurl }}/assets/Required_activity-Simple%20and%20interactive%20graphs%20in%20Python-2_7_1.png
     
 
 
