@@ -537,7 +537,7 @@ df['Gender'].value_counts().plot(kind='bar')
 
 
     
-![png](Required_activity-Simple%20and%20interactive%20graphs%20in%20Python-2_files/Required_activity-Simple%20and%20interactive%20graphs%20in%20Python-2_7_1.png)
+{{ site.baseurl }}/assets/Required_activity-Simple%20and%20interactive%20graphs%20in%20Python-2_7_1.png
     
 
 
