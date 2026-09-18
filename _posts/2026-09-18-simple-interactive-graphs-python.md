@@ -519,8 +519,7 @@ Perform the following tasks:
 
 * Note: you may want to add additional cells to create other histograms.
 
-![Gender bar chart](https://dolhathaiw.github.io/portfolio-jekyll-theme/vity-Simple%20and%20interactive%20graphs%20in%20Python-2_7_1.png
-``
+![Gend** bar chart](https://dolhathaiw.gi**ub.io/portfolio-jekyll-theme/asse**imple%20and%20interactive%20graph**20in%20Python-2_7_1.png
 
 **Conclusions:**
 
