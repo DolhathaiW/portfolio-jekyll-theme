@@ -525,21 +525,8 @@ Perform the following tasks:
 
 ```python
 df['Gender'].value_counts().plot(kind='bar')
-```
 
-
-
-
-    <Axes: xlabel='Gender'>
-
-
-
-
-    
-![Graph]({{ site.baseurl }}/assets_activity-Simple%20and%20interactive%20graphs%20in%20Python-2_7_1.png
-
-    
-
+{{ site.baseurl }}/assets/Required_activity-Simple%20and%20interactive%20graphs%20in%20Python-2_7_1.png `
 
 **Conclusions:**
 
