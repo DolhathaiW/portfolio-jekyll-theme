@@ -524,7 +524,11 @@ Perform the following tasks:
 
 df['Gender'].value_counts().plot(kind='bar')
 
-![Gender bar chart]({{ site.baseurl }}/assets/Required_activity-Simple%20graphs%20in%20Python-2_7_1.png`
+<img src="{{ '/assets/Required_activityand%20interactive%20graphs%20in%20Python-2_7_1.png' | relative_url }}
+
+**Conclusions:**
+
+- There are more male employees than female employees
 
 **Conclusions:**
 
