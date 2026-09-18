@@ -522,11 +522,9 @@ Perform the following tasks:
 
 * Note: you may want to add additional cells to create other histograms.
 
-
-```python
 df['Gender'].value_counts().plot(kind='bar')
 
-{{ site.baseurl }}/assets/Required_activity-Simple%20and%20interactive%20graphs%20in%20Python-2_7_1.png `
+![Gender bar chart]({{ site.baseurl }}/assets/Required_activity-Simple%20graphs%20in%20Python-2_7_1.png`
 
 **Conclusions:**
 
