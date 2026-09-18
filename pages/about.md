@@ -4,7 +4,7 @@ title: About
 permalink: /about
 ---
 
-# dW's Portfolio
+# DW's Portfolio
 
 Learning is great!
 
