@@ -519,10 +519,10 @@ Perform the following tasks:
 
 * Note: you may want to add additional cells to create other histograms.
 
-![Gend** bar chart](https://dolhathaiw.gi**ub.io/portfolio-jekyll-theme/asse**imple%20and%20interactive%20graph**20in%20Python-2_7_1.png
+df['Gender'].value_counts().plot(kind='bar')
+
 
 **Conclusions:**
-
 - There are more male employees than female employees
 
 ```
